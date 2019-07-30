@@ -1,0 +1,31 @@
+{
+  "name": "top-lib",
+  "main": "./top-lib.min.js",
+  "version": "0.0.1",
+  "homepage": "http://top.com",
+  "authors": [
+    "TOP <support@top.com>"
+  ],
+  "description": "A pure, powerful core for your TOP project.",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "top",
+    "bitcoin",
+    "bitcore",
+    "btc",
+    "satoshi"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "CONTRIBUTING.md",
+    "gulpfile.js",
+    "lib",
+    "index.js",
+    "karma.conf.js",
+    "npm-shrinkwrap.json",
+    "test"
+  ]
+}
